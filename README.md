@@ -26,7 +26,7 @@
 - 🌱 I’m learning **Machine Learning & Data Science**  
 - 👯 I’m looking to collaborate on **Open-Source** projects  
 - 💬 Ask me about **competitive programming** & **information theory**  
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tanvir-islam-7607a8266/)
 
 ---
 

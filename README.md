@@ -69,15 +69,15 @@
 ## 📫 Get In Touch
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:islamtanvir116.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/tanvir-islam-7607a8266/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your_handle">
+<!--   <a href="https://twitter.com/your_handle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  </a> -->
 </p>
 
 ---

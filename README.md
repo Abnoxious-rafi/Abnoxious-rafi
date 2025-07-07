@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Abnoxious Rafi</h1>
 <p align="center">
-  <em>4th-year ICT student · CF enthusiast · Aspiring Software Engineer</em>
+  <em>ICT student · CF Specialist · Aspiring Software Engineer</em>
 </p>
 
 <p align="center">
